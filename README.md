@@ -6,7 +6,7 @@ Skyline.DataMiner.Utils.SafeConverters is a NuGet package that contain assemblie
 
 ## Projects
 
-* For more information about Skyline.DataMiner.Utils.SafeConverters, see [Utils.SafeConverters/README.md](Utils.SafeConverters/README.md).
+* For more information about Skyline.DataMiner.Utils.SafeConverters, see [SafeConverters/README.md](SafeConverters/README.md).
 
 ### About DataMiner
 

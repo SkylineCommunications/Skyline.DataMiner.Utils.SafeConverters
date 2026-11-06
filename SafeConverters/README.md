@@ -2,9 +2,9 @@
 
 ## About
 
-Skyline.DataMiner.Utils.SafeConverters is a NuGet package n the public [nuget store](https://www.nuget.org/) that contain assemblies that assist in the safe convertion of one type to another/
+Skyline.DataMiner.Utils.SafeConverters is a NuGet package in the public [nuget store](https://www.nuget.org/) that contain assemblies that assist in the safe convertion of one type to another.
 
-Specifically they handle arithmic overflow issues when going from a double to a uint or ulong value. This is particularly useful for Rate Calculations.
+Specifically they handle arithmetic overflow issues when going from a double to a uint or ulong value. This is particularly useful for Rate Calculations.
 
 > Documentation: [Rate Calculations](https://community.dataminer.services/the-many-pitfalls-of-rate-calculations-and-how-you-can-avoid-them/?hilite=rate)
 
